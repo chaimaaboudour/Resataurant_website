@@ -1,2 +1,2 @@
 # Resataurant_website
-un site web restaaurant 
+un site web restaurant 
